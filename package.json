@@ -11,7 +11,9 @@
     "render:feed30": "./render.sh --comp Ad30s-Feed",
     "render:story30": "./render.sh --comp Ad30s-Story",
     "render:feed15": "./render.sh --comp Ad15s-Feed",
-    "render:story15": "./render.sh --comp Ad15s-Story"
+    "render:story15": "./render.sh --comp Ad15s-Story",
+    "render:onboarding": "./render-onboarding.sh src/onboarding/config/clientConfig.json",
+    "render:onboarding:batch": "./render-onboarding.sh --batch clients"
   },
   "repository": {
     "type": "git",
