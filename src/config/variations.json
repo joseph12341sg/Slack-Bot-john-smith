@@ -1,0 +1,74 @@
+[
+  {
+    "id": "default",
+    "clientName": "North Star Solutions",
+    "hookHeadline": "Still chasing leads for your accounting firm?",
+    "painPoints": [
+      "❌ Cold calling that goes nowhere",
+      "❌ Referrals drying up",
+      "❌ No predictable pipeline"
+    ],
+    "stats": {
+      "clientsGuaranteed": 12,
+      "adSpend": "£30/day",
+      "timeframe": "6 Months"
+    },
+    "testimonial": {
+      "quote": "\"North Star transformed our pipeline. We went from scrambling for leads to having a waitlist of qualified prospects.\"",
+      "attribution": "— Sarah M., Partner at Mitchell & Co Accountants"
+    },
+    "cta": {
+      "headline": "Book Your Free Growth Call Today",
+      "url": "north-star-solution.com"
+    },
+    "tagline": "Predictable Growth for Accounting Firms"
+  },
+  {
+    "id": "variation-tax-season",
+    "clientName": "North Star Solutions",
+    "hookHeadline": "Tax season is over. Where are your next clients?",
+    "painPoints": [
+      "❌ Feast-or-famine revenue cycle",
+      "❌ Competing on price with online tools",
+      "❌ No system to attract premium clients"
+    ],
+    "stats": {
+      "clientsGuaranteed": 15,
+      "adSpend": "£25/day",
+      "timeframe": "90 Days"
+    },
+    "testimonial": {
+      "quote": "\"We added £180k in annual recurring revenue within 4 months of working with North Star.\"",
+      "attribution": "— James T., Director at Taylor Brooks Chartered Accountants"
+    },
+    "cta": {
+      "headline": "Get Your Free Growth Audit",
+      "url": "north-star-solution.com"
+    },
+    "tagline": "Predictable Growth for Accounting Firms"
+  },
+  {
+    "id": "variation-scaling",
+    "clientName": "North Star Solutions",
+    "hookHeadline": "Ready to scale your accounting practice?",
+    "painPoints": [
+      "❌ Stuck at the same revenue for years",
+      "❌ Can't find the right clients",
+      "❌ Marketing feels like guesswork"
+    ],
+    "stats": {
+      "clientsGuaranteed": 10,
+      "adSpend": "£35/day",
+      "timeframe": "6 Months"
+    },
+    "testimonial": {
+      "quote": "\"North Star gave us a repeatable system. We've grown 40% year-over-year since partnering with them.\"",
+      "attribution": "— Rachel K., Managing Partner at KPM Accounting"
+    },
+    "cta": {
+      "headline": "Book Your Strategy Session",
+      "url": "north-star-solution.com"
+    },
+    "tagline": "Predictable Growth for Accounting Firms"
+  }
+]

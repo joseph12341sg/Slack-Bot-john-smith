@@ -1,0 +1,35 @@
+{
+  "name": "slack-bot-john-smith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx remotion studio src/index.ts",
+    "build": "npx remotion render src/index.ts",
+    "render:all": "./render.sh --all-variations",
+    "render:default": "./render.sh",
+    "render:feed30": "./render.sh --comp Ad30s-Feed",
+    "render:story30": "./render.sh --comp Ad30s-Story",
+    "render:feed15": "./render.sh --comp Ad15s-Feed",
+    "render:story15": "./render.sh --comp Ad15s-Story"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:40505/git/joseph12341sg/Slack-Bot-john-smith"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.438",
+    "@remotion/player": "^4.0.438",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.438"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}
