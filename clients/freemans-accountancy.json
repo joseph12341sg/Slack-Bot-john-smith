@@ -1,0 +1,21 @@
+{
+  "clientName": "Freemans Accountancy",
+  "clientLogo": "./assets/freeman-logo.png",
+  "location": "Manchester",
+  "niche": "Dental Practices",
+  "challenges": [
+    "Relied entirely on word-of-mouth referrals",
+    "No online presence or lead generation",
+    "Revenue plateaued at £180k for 3 years"
+  ],
+  "results": {
+    "newClients": 14,
+    "additionalRevenue": 42000,
+    "paybackMonths": 2
+  },
+  "testimonial": {
+    "quote": "North Star completely transformed how we attract new clients.",
+    "name": "Craig Freeman",
+    "firm": "Freemans Accountancy"
+  }
+}

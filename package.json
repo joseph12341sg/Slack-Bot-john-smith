@@ -1,0 +1,33 @@
+{
+  "name": "slack-bot-john-smith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "preview": "remotion studio src/index.ts",
+    "render:landscape": "remotion render src/index.ts CaseStudy-Landscape out/case-study-landscape.mp4",
+    "render:square": "remotion render src/index.ts CaseStudy-Square out/case-study-square.mp4",
+    "render:all": "npm run render:landscape && npm run render:square",
+    "render:custom": "npx ts-node src/render.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:42605/git/joseph12341sg/Slack-Bot-john-smith"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/bundler": "^4.0.438",
+    "@remotion/cli": "^4.0.438",
+    "@remotion/renderer": "^4.0.438",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.438"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}
